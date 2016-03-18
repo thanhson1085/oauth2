@@ -1,0 +1,14 @@
+{
+  "name": "oauth2",
+  "version": "0.1.0",
+  "description": "Oauth2 for microservice base on Koor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thanhson1085@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "koor": "^0.1.2"
+  }
+}
